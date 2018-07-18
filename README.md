@@ -1,1 +1,1 @@
-# shell-basisc
+# shell脚本学习
